@@ -1,0 +1,155 @@
+body{
+	background-color: #fff;
+	font-family: 'Century Gothic';
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+section{
+	align-items: flex-start;
+	text-align: center;
+}
+
+.sec-menu{
+	margin: auto;
+	padding: auto;
+}
+
+.header{
+	display: block;
+	margin: auto;
+}
+
+#rectangle{
+	opacity: 1;
+	width: 110px;
+	height: 110px;
+	background-color: #fac001;
+	margin: auto;
+	justify-content: center;
+	position: relative;
+	top: 104px;
+}
+
+#menu-rect{
+	opacity: 1;
+	width: 350px;
+	height:110px;
+	background-color:#000;
+	margin: auto;
+	justify-content: center;
+	position: relative;
+}
+
+.menu{
+	font-family: 'Minion Pro';
+	font-size: 24px;
+	text-align: center;
+	margin-top: 110px;
+	margin-bottom: 100px;
+}
+
+.img-sec{
+	position: absolute;
+	background: transparent no-repeat padding-box;
+	opacity: 1;
+	top: 150px;
+	left: 950px;
+}
+
+.menu-img{
+
+}
+
+h2{
+	font: bold 73px 'Century Gothic';
+	letter-spacing: -1.82px;
+	color: #000;
+	opacity: 1;
+	margin-bottom: 0;
+}
+
+h1{
+	font: normal normal bold 133px 'Century Gothic';
+	letter-spacing: -3.33px;
+	color: #000;
+	opacity: 1;
+	display: inline;
+	margin-top: 0;
+}
+
+.footer{
+	text-align: center;
+}
+
+
+.vl{
+	border-left: 1px solid grey;
+	height: 100px;
+	left: 50%;
+	top: 1000px;
+	display: inline-block;
+	margin-top: 100px;
+}
+
+.footer p{
+	font-family: 'Minion Pro';
+	font-size: 24px;
+	margin-top: 100px;
+}
+
+.open-menu{
+	text-align: center;
+}
+
+#open-rect{
+	width: 312px;
+	height: 110px;
+	background: #000 0% 0% no-repeat;
+	opacity: 1;
+}
+
+.open-menu img{
+	position: absolute;
+	background: transparent no-repeat;
+	opacity: 1;
+	top: 58px;
+	left: 1701px;
+}
+
+.open-menu p{
+	top: 982px;
+	font-family: 'Minion Pro';
+	font-size: 24px;
+	opacity: 1;
+}
+
+.open-content{
+	text-align: center;
+	align-items: center;
+}
+
+.open-content h5{
+	font: normal normal normal 63px 'Century Gothic';
+	letter-spacing: 0px;
+	color: #000;
+	opacity: 1;
+}
+
+.open-content p{
+	display: inline;
+	font: normal normal bold 51px 'Century Gothic';
+	letter-spacing: 0px;
+	color: #000;
+	opacity: 1;
+}
+
+.open-footer p{
+	font: normal normal bold 51px 'Century Gothic';
+	letter-spacing: 0px;
+	color: #000;
+	opacity: 1;
+	text-align: center;
+}
