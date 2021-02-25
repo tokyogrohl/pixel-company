@@ -1,0 +1,91 @@
+body{
+	background-color: #fac001;
+	font-family: 'Century G#FAC001othic';
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	margin: auto;
+}
+
+section{
+	align-items: flex-start;
+	text-align: center;
+}
+
+#menu-rect{
+	opacity: 1;
+	width: 312px;
+	height: 110px;
+	background-color: #000;
+	top: 0px;
+	left: 804px;
+	position: relative;
+}
+
+.menu-img{
+	position: absolute;
+	top: 30px;
+	left: 910px;
+}
+
+.menu-img-close{
+	position: absolute;
+	top: 58px;
+	left: 1800px;
+	width: 32px;
+	height: 32px;
+}
+
+p{
+	font: 20px 'Century Gothic';
+	letter-spacing: 0px;
+	color: #000;
+	opacity: 1;
+	text-align: center;
+}
+
+h1{
+	font: normal normal normal 63px 'Century Gothic';
+	letter-spacing: 0px;
+	color: #000000;
+	opacity: 1;
+	display: inline-block;
+	margin-right: 100px;
+	text-align: left;
+}
+
+h2{
+	font: normal normal bold 51px 'Century Gothic';
+	letter-spacing: 0px;
+	color: #000000;
+	opacity: 1;
+	display: inline-block;
+	text-align: right;
+	margin-left: 50px;
+}
+
+.footer{
+	text-align: center;
+}
+
+.vl{
+	border: 0.05px solid grey;
+	width: 100px;
+	display: inline-block;
+}
+
+.vl-2{
+	border: 1px solid black;
+	width: 450px;
+	display: inline-block;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+.footer p{
+	font: normal normal bold 51px 'Century Gothic';
+	letter-spacing: 0px;
+	color: #000000;
+	opacity: 1;
+}
